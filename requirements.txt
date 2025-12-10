@@ -4,5 +4,6 @@ nltk
 PyPDF2
 pandas
 numpy
-matplotlib.pyplo
+matplotlib
+
 
